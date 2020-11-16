@@ -3,6 +3,9 @@ description: svg_to_paint generates dart code from a svg file. Given an xml file
 version: 1.0.7
 homepage: https://github.com/FrancescoCatani/svg_to_paint_dart
 
+executables: 
+  svg_to_paint:
+
 environment:
   sdk: ">=2.7.0 <3.0.0"
 
